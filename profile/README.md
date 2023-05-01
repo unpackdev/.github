@@ -6,7 +6,7 @@ We're like your personal token detective, sniffing out all the juicy details abo
 
 But we don't just stop at tracking - we also take security seriously. Our team of experts diligently checks for vulnerabilities in the contracts, so you don't have to worry about falling prey to scams. Well you should, however... we will help you with that as best as we can :)
 
-We provide an intuitive API that lets you easily purchase and sell tokens without having to be a greedy bot. Plus, we've got big plans to support other networks in the future, so you can stay on top of the ever-evolving crypto landscape.
+We provide an intuitive real-time API including SDKs for (Go, Rust and JS) that lets you easily purchase and sell tokens without acting as a greedy bot. Plus, we've got big plans to support other networks in the future, so you can stay on top of the ever-evolving crypto landscape.
 
 In fact, all capabilities will be provided in API that will have fair pricing. Only new data will be charged properly. Data that we already store will come for free, however, with some limitations on the RPS (Requests Per Second).
 
