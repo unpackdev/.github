@@ -1,9 +1,6 @@
 ## Hi there 👋
 
-
-### Introduction
-
-Welcome to *TxPull* - the one-stop-shop for all your token tracking needs! Whether you're a crypto enthusiast, a seasoned investor, or just a curious cat, our real-time tracking service has got you covered.
+Welcome to **TxPull** - the one-stop-shop for all your token tracking needs! Whether you're a crypto enthusiast, a seasoned investor, or just a curious cat, our real-time tracking service has got you covered.
 
 We're like your personal token detective, sniffing out all the juicy details about BSC and Ethereum tokens, from prices to security to contract audits. We even keep tabs on users of the tokens, so you can make informed decisions about who you're dealing with.
 
